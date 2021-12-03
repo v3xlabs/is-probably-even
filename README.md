@@ -1,4 +1,4 @@
-# is-even [![npm](https://img.shields.io/npm/v/is-probably-even)](https://www.npmjs.com/package/lucemans/is-probably-even) [![luc.computer](https://img.shields.io/badge/luc.computer-online-blue)](https://luc.computer/)
+# is-probably-even [![npm](https://img.shields.io/npm/v/is-probably-even)](https://www.npmjs.com/package/lucemans/is-probably-even) [![luc.computer](https://img.shields.io/badge/luc.computer-online-blue)](https://luc.computer/)
 > Return true if the number passed is even, hopefully...
 
 > Disclaimer: This project only works as intended 50% of the time, this is by design, probablities can be tweaked :smirk:
