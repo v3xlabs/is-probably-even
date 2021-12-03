@@ -1,8 +1,9 @@
 {
   "name": "is-probably-even",
+  "description": "Returns true if a given number is probably even",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:lvkdotsh/is-probably-even.git",
+  "repository": "lvkdotsh/is-probably-even",
   "author": "Lucemans <luc@lucemans.nl>",
   "license": "MIT",
   "scripts": {
