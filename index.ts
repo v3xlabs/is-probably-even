@@ -1,0 +1,1 @@
+export const isProbablyEven = (_value: number, bias = 4) => Math.random() * 10 < bias;

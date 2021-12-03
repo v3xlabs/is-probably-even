@@ -1,0 +1,17 @@
+{
+  "name": "is-probably-even",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lvkdotsh/is-probably-even.git",
+  "author": "Lucemans <luc@lucemans.nl>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "files": [
+    "index.js", "package.json"
+  ]
+}
