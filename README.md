@@ -24,7 +24,7 @@ isEven(3); //false, or true 🤷
 // And so on... just for a little while
 ```
 ## About
-This is a 100% not a serious project, and it is made to help the community laugh. There are a lot of cases where young developers face the issue of finding if a number is maybe but not really even, so I decided to help them by creating this beautiful humerous package. Hopefully, someday it will be completed...
+This is a 100% not a serious project, and it is made to help the community laugh. There are a lot of cases where young developers face the issue of finding if a number is maybe but not really even, so I decided to help them by creating this beautiful humorous package. Hopefully, some day it will be completed...
 
 ### Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, please create an issue.
