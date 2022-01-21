@@ -1,1 +1,2 @@
-export const isProbablyEven = (_value: number, bias = 4) => Math.random() * 10 < bias;
+export type Countable = bigint | number | string | [Countable];
+export const isProbablyEven = (value: Countable) => Number(value) % 2 === 0;
