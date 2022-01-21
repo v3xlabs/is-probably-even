@@ -3,7 +3,10 @@
   "description": "Returns true if a given number is probably even",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "lvkdotsh/is-probably-even",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvkdotsh/is-probably-even.git"
+  },
   "author": "Lucemans <luc@lucemans.nl>",
   "license": "MIT",
   "scripts": {
@@ -14,5 +17,10 @@
   },
   "files": [
     "index.js", "package.json"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/lvkdotsh/is-probably-even/issues"
+  },
+  "homepage": "https://github.com/lvkdotsh/is-probably-even#readme",
+  "keywords": []
 }
