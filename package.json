@@ -1,18 +1,29 @@
 {
-  "name": "is-probably-even",
-  "description": "Returns true if a given number is probably even",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "lvkdotsh/is-probably-even",
-  "author": "Lucemans <luc@lucemans.nl>",
-  "license": "MIT",
-  "scripts": {
-    "build": "tsc"
-  },
-  "devDependencies": {
-    "typescript": "^4.5.2"
-  },
-  "files": [
-    "index.js", "package.json"
-  ]
+    "name": "is-probably-even",
+    "description": "Returns true if a given number is probably even",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lvkdotsh/is-probably-even.git"
+    },
+    "author": "Lucemans <luc@lucemans.nl>",
+    "license": "MIT",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.2"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "useTabs": false,
+        "singleQuote": true
+    },
+    "files": ["index.js", "package.json"],
+    "bugs": {
+        "url": "https://github.com/lvkdotsh/is-probably-even/issues"
+    },
+    "homepage": "https://github.com/lvkdotsh/is-probably-even#readme",
+    "keywords": []
 }
